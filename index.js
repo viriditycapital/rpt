@@ -410,7 +410,7 @@ const QUESTIONS = [
   [
     'Engaged in beastiality?',
     9
-  ],
+  ]
 ];
 
 /**
