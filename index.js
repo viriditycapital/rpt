@@ -149,7 +149,7 @@ const QUESTIONS = [
   ],
   [
     'Cheated on a significant other during a relationship?',
-    5
+    7
   ],
   [
     'Purchased contraceptives?',
@@ -261,7 +261,7 @@ const QUESTIONS = [
   ],
   [
     'Been arrested?',
-    5
+    6
   ],
   [
     'Been convicted of a crime?',
@@ -277,7 +277,7 @@ const QUESTIONS = [
   ],
   [
     'Had sexual intercourse?',
-    5
+    4
   ],
   [
     'Had sexual intercourse three or more times in one night?',
@@ -385,7 +385,7 @@ const QUESTIONS = [
   ],
   [
     'Had anal sex?',
-    5
+    6
   ],
   [
     'Had a pregnancy scare?',
