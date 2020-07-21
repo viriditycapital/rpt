@@ -490,7 +490,7 @@ function create_quiz () {
     curr_elem.innerHTML = 
     `
     <input type="checkbox" id=${i}>
-    ${QUESTIONS[i][0]}
+    ${QUESTIONS[i][IDX_QUESTION_TEXT]}
     `;
     QUESTION_WRAPPER.appendChild(curr_elem);
   }
