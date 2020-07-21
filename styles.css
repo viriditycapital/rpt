@@ -1,0 +1,16 @@
+body {
+  background-color: #FDEEC7;
+}
+
+h1 {
+  text-align: center;
+}
+
+.score_container {
+  text-align: center;
+}
+
+.score {
+  color: red;
+  font-size: xx-large;
+}
