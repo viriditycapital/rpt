@@ -468,6 +468,7 @@ function create_quiz () {
   <b>Completion of all items on this test will likely result in death.</b>
   </p>
   `;
+  INTRO_TEXT.classList.add('intro_text');
   BODY_CONTAINER.appendChild(INTRO_TEXT);
 
   QUIZ_TEXT.innerHTML = 
